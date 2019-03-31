@@ -18,7 +18,7 @@ const Index = () => (
           position: absolute;
           top: 50%;
           left: 50%;
-          margin: -100px 0 0 -340px;
+          margin: -230px 0 0 -340px;
         }
       `}</style>
   </div>
